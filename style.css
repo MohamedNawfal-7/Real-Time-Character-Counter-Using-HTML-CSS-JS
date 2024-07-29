@@ -1,0 +1,23 @@
+.counter-container{
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #433b62;
+    padding: 25px 35px;
+    border: 1px solid #171515;
+    border-radius: 10px;
+    color: aliceblue;
+}
+#textInput{
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+    font-size: 15px;
+}
+.counter{
+    padding-top: 10px;
+    
+}
+.space{
+    justify-content: space-evenly;
+}
